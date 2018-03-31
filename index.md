@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+---
+title: The Team
+---
 
-You can use the [editor on GitHub](https://github.com/jsalt18-sentence-repl/jsalt18-sentence-repl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## What?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a team of researchers participating in the six-week [JSALT 2018](https://www.clsp.jhu.edu/workshops/18-workshop/) in-person intensive research summer camp at the [CLSP](https://www.clsp.jhu.edu/) at Johns Hopkins University.
 
-### Markdown
+Our group will work to improve the ability of artificial neural network models to represent and understand sentence meaning. Candidate systems will be evaluated on their ability to solve a suite language understanding tasks using a single shared sentence encoder component, combined with a set of ten lightweight task-specific attention models. We expect to explore new methods for unsupervised learning, new objectives and techniques for multi-task and transfer learning, and new methods for linguistically sophisticated error analysis. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## When?
 
-```markdown
-Syntax highlighted code block
+June and July 2018.
 
-# Header 1
-## Header 2
-### Header 3
+## Who?
 
-- Bulleted
-- List
+Team Leaders
+* [Sam Bowman](https://www.nyu.edu/projects/bowman/)
+* [Ellie Pavlick](https://cs.brown.edu/people/epavlick/)
 
-1. Numbered
-2. List
+Senior Researchers
+* [Ben Van Durme](http://www.cs.jhu.edu/~vandurme/)
+* [Edouard Grave](https://research.fb.com/people/grave-edouard/)
+* [Tal Linzen](http://tallinzen.net/)
+* [Ian Tenney](https://www.ischool.berkeley.edu/people/ian-tenney)
 
-**Bold** and _Italic_ and `Code` text
+Graduate Student Researchers
+* [Tom McCoy](http://cogsci.jhu.edu/directory/tom-mccoy/)
+* [Raghu Pappagari](https://www.linkedin.com/in/raghavendra-reddy-pappagari-92446477/)
+* [Roma Patel](https://www.seas.upenn.edu/~romap/)
+* [Rachel Rudinger](http://rudinger.github.io/)
+* [Alex Wang](https://www.linkedin.com/in/alex-wang-12283785/)
 
-[Link](url) and ![Image](src)
-```
+Undergraduate Student Researchers
+* TBA
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Advisors
+* [Dipanjan Das](https://research.google.com/pubs/DipanjanDas.html)
+* [Felix Hill](https://www.cl.cam.ac.uk/~fh295/)
+* [Jamie Kiros](http://www.cs.toronto.edu/~rkiros/)
+* [Omer Levy](https://levyomer.wordpress.com/)
+* [Ves Stoyanov](https://research.fb.com/people/stoyanov-ves/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsalt18-sentence-repl/jsalt18-sentence-repl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Stay tuned: A few more researchers may yet join us.
