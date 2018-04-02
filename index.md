@@ -28,6 +28,7 @@ Graduate Student Researchers
 * [Tom McCoy](http://cogsci.jhu.edu/directory/tom-mccoy/)
 * [Raghu Pappagari](https://www.linkedin.com/in/raghavendra-reddy-pappagari-92446477/)
 * [Roma Patel](https://www.seas.upenn.edu/~romap/)
+* [Adam Poliak](http://www.cs.jhu.edu/~apoliak1/)
 * [Rachel Rudinger](http://rudinger.github.io/)
 * [Alex Wang](https://www.linkedin.com/in/alex-wang-12283785/)
 
