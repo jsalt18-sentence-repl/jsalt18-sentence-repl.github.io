@@ -35,11 +35,12 @@ Graduate Student Researchers
 Undergraduate Student Researchers
 * TBA
 
-Advisors
+Advisors and Consulting Participants
 * [Dipanjan Das](https://research.google.com/pubs/DipanjanDas.html)
 * [Felix Hill](https://www.cl.cam.ac.uk/~fh295/)
 * [Jamie Kiros](http://www.cs.toronto.edu/~rkiros/)
 * [Omer Levy](https://levyomer.wordpress.com/)
 * [Ves Stoyanov](https://research.fb.com/people/stoyanov-ves/)
+* [Katherin Yu](https://www.linkedin.com/in/yukatherin)
 
 Stay tuned: A few more researchers may yet join us.
