@@ -30,7 +30,7 @@ Graduate Student Researchers
 * [Roma Patel](https://www.seas.upenn.edu/~romap/)
 * [Adam Poliak](http://www.cs.jhu.edu/~apoliak1/)
 * [Rachel Rudinger](http://rudinger.github.io/)
-* [Alex Wang](https://www.linkedin.com/in/alex-wang-12283785/)
+* [Alex Wang](https://w4ngatang.github.io/)
 
 Undergraduate Student Researchers
 * TBA
