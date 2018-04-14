@@ -33,7 +33,9 @@ Graduate Student Researchers
 * [Alex Wang](https://w4ngatang.github.io/)
 
 Undergraduate Student Researchers
-* TBA
+* [Berlin Chen](https://www.cs.swarthmore.edu/~bchen6/)
+* Shuning Jin
+* Alexis Ross
 
 Advisors and Consulting Participants
 * [Dipanjan Das](https://research.google.com/pubs/DipanjanDas.html)
@@ -42,5 +44,3 @@ Advisors and Consulting Participants
 * [Omer Levy](https://levyomer.wordpress.com/)
 * [Ves Stoyanov](https://research.fb.com/people/stoyanov-ves/)
 * [Katherin Yu](https://www.linkedin.com/in/yukatherin)
-
-Stay tuned: A few more researchers may yet join us.
