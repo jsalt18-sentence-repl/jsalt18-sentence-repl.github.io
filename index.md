@@ -33,7 +33,6 @@ Graduate Student Researchers
 * [Raghu Pappagari](https://www.linkedin.com/in/raghavendra-reddy-pappagari-92446477/)
 * [Roma Patel](https://www.seas.upenn.edu/~romap/)
 * [Adam Poliak](http://www.cs.jhu.edu/~apoliak1/)
-* [Rachel Rudinger](http://rudinger.github.io/)
 * [Alex Wang](https://w4ngatang.github.io/)
 
 Undergraduate Student Researchers
