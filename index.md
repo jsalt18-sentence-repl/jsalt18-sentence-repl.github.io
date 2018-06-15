@@ -34,6 +34,7 @@ Graduate Student Researchers
 * [Roma Patel](https://www.seas.upenn.edu/~romap/)
 * [Adam Poliak](http://www.cs.jhu.edu/~apoliak1/)
 * [Alex Wang](https://w4ngatang.github.io/)
+* [Patrick Xia](https://www.cs.jhu.edu/~paxia/)
 
 Undergraduate Student Researchers
 * [Berlin Chen](https://www.cs.swarthmore.edu/~bchen6/)
