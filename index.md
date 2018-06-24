@@ -43,6 +43,7 @@ Undergraduate Student Researchers
 
 Advisors and Consulting Participants
 * [Dipanjan Das](https://research.google.com/pubs/DipanjanDas.html)
+* [Allyson Ettinger](http://ling.umd.edu/~aetting/)
 * [Felix Hill](https://www.cl.cam.ac.uk/~fh295/)
 * [Jamie Kiros](http://www.cs.toronto.edu/~rkiros/)
 * [Omer Levy](https://levyomer.wordpress.com/)
