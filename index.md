@@ -38,7 +38,7 @@ Graduate Student Researchers
 
 Undergraduate Student Researchers
 * [Berlin Chen](https://www.cs.swarthmore.edu/~bchen6/)
-* Shuning Jin
+* [Shuning Jin](https://shuningjin.github.io/)
 * Alexis Ross
 
 Advisors and Consulting Participants
