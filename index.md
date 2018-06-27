@@ -28,7 +28,8 @@ Senior Researchers
 * [Ian Tenney](https://www.ischool.berkeley.edu/people/ian-tenney)
 
 Graduate Student Researchers
-* [Najoung Kim](https://www.linkedin.com/in/najoung-kim-a00803100/)
+* Jan Hula
+* [Najoung Kim](https://najoungkim.github.io/)
 * [Tom McCoy](http://cogsci.jhu.edu/directory/tom-mccoy/)
 * [Raghu Pappagari](https://www.linkedin.com/in/raghavendra-reddy-pappagari-92446477/)
 * [Roma Patel](https://www.seas.upenn.edu/~romap/)
