@@ -10,6 +10,8 @@ Our group will work to improve the ability of artificial neural network models t
 
 We plan to use baselines and metrics from the [GLUE](https://gluebenchmark.com) benchmark suite.
 
+Because we study [ELMo](https://en.wikipedia.org/wiki/Elmo), and JSALT provides cookies generously, our mascot is [Cookie Monster](https://en.wikipedia.org/wiki/Cookie_Monster).
+
 ## When?
 
 June and July 2018.
