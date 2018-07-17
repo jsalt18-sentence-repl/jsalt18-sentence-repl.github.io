@@ -28,6 +28,7 @@ Senior Researchers
 * [Yinghui Huang](https://www.linkedin.com/in/yinghui-huang-79ba2263/)
 * [Tal Linzen](http://tallinzen.net/)
 * [Ian Tenney](https://www.ischool.berkeley.edu/people/ian-tenney)
+* [Katherin Yu](https://www.linkedin.com/in/yukatherin)
 
 Graduate Student Researchers
 * Jan Hula
@@ -51,4 +52,3 @@ Advisors and Consulting Participants
 * [Jamie Kiros](http://www.cs.toronto.edu/~rkiros/)
 * [Omer Levy](https://levyomer.wordpress.com/)
 * [Ves Stoyanov](https://research.fb.com/people/stoyanov-ves/)
-* [Katherin Yu](https://www.linkedin.com/in/yukatherin)
