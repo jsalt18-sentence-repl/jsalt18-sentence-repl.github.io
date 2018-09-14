@@ -8,15 +8,15 @@ We are a team of researchers participating in the six-week [JSALT 2018](https://
 
 Our group will work to improve the ability of artificial neural network models to represent and understand sentence meaning. Candidate systems will be evaluated on their ability to solve a suite language understanding tasks using a single shared sentence encoder component, combined with a set of ten lightweight task-specific attention models. We expect to explore new methods for unsupervised learning, new objectives and techniques for multi-task and transfer learning, and new methods for linguistically sophisticated error analysis. 
 
-We plan to use baselines and metrics from the [GLUE](https://gluebenchmark.com) benchmark suite.
+We use baselines and metrics from the [GLUE](https://gluebenchmark.com) benchmark suite. 
 
 Because we study [ELMo](https://en.wikipedia.org/wiki/Elmo), and JSALT provides cookies generously, our mascot is [Cookie Monster](https://en.wikipedia.org/wiki/Cookie_Monster).
 
-## When?
+## Results
 
-June and July 2018.
+* The [jiant](https://github.com/jsalt18-sentence-repl/jiant) software toolkit.
 
-## Who?
+## The Team
 
 Team Leaders
 * [Sam Bowman](https://www.nyu.edu/projects/bowman/)
