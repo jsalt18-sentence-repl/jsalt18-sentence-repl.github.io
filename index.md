@@ -15,6 +15,7 @@ Because we study [ELMo](https://en.wikipedia.org/wiki/Elmo), and JSALT provides 
 ## Results
 
 * The [jiant](https://github.com/jsalt18-sentence-repl/jiant) software toolkit.
+* This [terrible group photo](group.jpg).
 
 ## The Team
 
