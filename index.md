@@ -14,6 +14,8 @@ Because we study [ELMo](https://en.wikipedia.org/wiki/Elmo), and JSALT provides 
 
 ## Results
 
+* [Looking for ELMo's Friends: Sentence-Level Pretraining Beyond Language Modeling](https://arxiv.org/abs/1812.10860) (arXiv)
+* [What do you learn from context? Probing for sentence structure in contextualized word representations](https://openreview.net/forum?id=SJzSgnRcKX) (ICLR 2019)
 * The [jiant](https://github.com/jsalt18-sentence-repl/jiant) software toolkit.
 * This [terrible group photo](group.jpg).
 
