@@ -6,7 +6,7 @@ title: The Team
 
 We are a team of researchers participating in the six-week [JSALT 2018](https://www.clsp.jhu.edu/workshops/18-workshop/) in-person intensive research summer camp at the [CLSP](https://www.clsp.jhu.edu/) at Johns Hopkins University.
 
-Our group will work to improve the ability of artificial neural network models to represent and understand sentence meaning. Candidate systems will be evaluated on their ability to solve a suite language understanding tasks using a single shared sentence encoder component, combined with a set of ten lightweight task-specific attention models. We expect to explore new methods for unsupervised learning, new objectives and techniques for multi-task and transfer learning, and new methods for linguistically sophisticated error analysis. 
+*Research proposal:* Our group will work to improve the ability of artificial neural network models to represent and understand sentence meaning. Candidate systems will be evaluated on their ability to solve a suite language understanding tasks using a single shared sentence encoder component, combined with a set of ten lightweight task-specific attention models. We expect to explore new methods for unsupervised learning, new objectives and techniques for multi-task and transfer learning, and new methods for linguistically sophisticated error analysis. 
 
 We use baselines and metrics from the [GLUE](https://gluebenchmark.com) benchmark suite. 
 
@@ -16,6 +16,7 @@ Because we study [ELMo](https://en.wikipedia.org/wiki/Elmo), and JSALT provides 
 
 * [Looking for ELMo's Friends: Sentence-Level Pretraining Beyond Language Modeling](https://arxiv.org/abs/1812.10860) (arXiv)
 * [What do you learn from context? Probing for sentence structure in contextualized word representations](https://openreview.net/forum?id=SJzSgnRcKX) (ICLR 2019)
+* [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544) (\*SEM 2019)
 * The [jiant](https://github.com/jsalt18-sentence-repl/jiant) software toolkit.
 * This [terrible group photo](group.jpg).
 
