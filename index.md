@@ -14,7 +14,7 @@ Because we study [ELMo](https://en.wikipedia.org/wiki/Elmo), and because JSALT p
 
 ## Results
 
-* [Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling](https://arxiv.org/abs/1812.10860) (ACL 2019, earlier version 'Looking for ELMo's Friends' [here](https://arxiv.org/abs/1812.10860v2)
+* [Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling](https://arxiv.org/abs/1812.10860) (ACL 2019, earlier version 'Looking for ELMo's Friends' [here](https://arxiv.org/abs/1812.10860v2))
 * [What do you learn from context? Probing for sentence structure in contextualized word representations](https://openreview.net/forum?id=SJzSgnRcKX) (ICLR 2019)
 * [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544) (\*SEM 2019)
 * The [jiant](https://github.com/jsalt18-sentence-repl/jiant) software toolkit.
