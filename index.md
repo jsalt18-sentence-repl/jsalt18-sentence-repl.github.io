@@ -10,11 +10,11 @@ We are a team of researchers participating in the six-week [JSALT 2018](https://
 
 We use baselines and metrics from the [GLUE](https://gluebenchmark.com) benchmark suite. 
 
-Because we study [ELMo](https://en.wikipedia.org/wiki/Elmo), and JSALT provides cookies generously, our mascot is [Cookie Monster](https://en.wikipedia.org/wiki/Cookie_Monster).
+Because we study [ELMo](https://en.wikipedia.org/wiki/Elmo), and because JSALT provides cookies generously, our mascot is [Cookie Monster](https://en.wikipedia.org/wiki/Cookie_Monster).
 
 ## Results
 
-* [Looking for ELMo's Friends: Sentence-Level Pretraining Beyond Language Modeling](https://arxiv.org/abs/1812.10860) (arXiv)
+* [Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling](https://arxiv.org/abs/1812.10860) (ACL 2019, earlier version 'Looking for ELMo's Friends' [here](https://arxiv.org/abs/1812.10860v2)
 * [What do you learn from context? Probing for sentence structure in contextualized word representations](https://openreview.net/forum?id=SJzSgnRcKX) (ICLR 2019)
 * [Probing What Different NLP Tasks Teach Machines about Function Word Comprehension](https://arxiv.org/abs/1904.11544) (\*SEM 2019)
 * The [jiant](https://github.com/jsalt18-sentence-repl/jiant) software toolkit.
